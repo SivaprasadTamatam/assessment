@@ -23,9 +23,13 @@ Ensure you are submitting the code along with cli.
 
 # Procedure to build & run the code
 git clone https://github.com/SivaprasadTamatam/assessment.git
+
 go to assessment>
+
 go build
+
 ./main.exe
+
 ## FAQ
 
 ### What is the time-limit on exercise ?
