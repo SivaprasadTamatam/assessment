@@ -21,6 +21,11 @@ Ensure you are submitting the code along with cli.
 
 - Docker
 
+# Procedure to build & run the code
+git clone https://github.com/SivaprasadTamatam/assessment.git
+go to assessment>
+go build
+./main.exe
 ## FAQ
 
 ### What is the time-limit on exercise ?
@@ -34,11 +39,3 @@ Submit a GitHub / Bitbucket repo for review. No ZIP files!
 ### Do I need to write tests for connecting to API ?
 
 That can be ommitted.
-
-### Procedure to build & run the code
-git clone https://github.com/SivaprasadTamatam/assessment.git
-
-go to assessment>
->>go build
->> ./main.exe
-
